@@ -1,3 +1,6 @@
+=========
+CHARACTER
+=========
 character header 1 1
 
 character header 1 2
